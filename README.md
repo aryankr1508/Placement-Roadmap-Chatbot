@@ -1,5 +1,5 @@
 # Placement-Roadmap-Chatbot
-<h1>One stop guide for all placement queries</h1>
+<h2>One stop guide for all placement queries</h2>
 
 <a href="https://placementchatbot.netlify.app/">Placement Roadmap ChatBot (Live Project Link)</a>
 
